@@ -4,3 +4,4 @@ about.html
 /dir2
 # add `.vscode` 
 /.vscode
+*.js
