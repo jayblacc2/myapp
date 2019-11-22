@@ -5,3 +5,4 @@ about.html
 # add `.vscode` 
 /.vscode
 *.js
+dir2/
